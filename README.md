@@ -1,2 +1,3 @@
 # my-awesome-project
-PJ 3
+# this awesome projet is created to experiment git notions like clone and pull
+
